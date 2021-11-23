@@ -16,22 +16,23 @@ Our proposed Chinese Character dataset is accessible on [link](https://drive.goo
 build train/validation/test sets,
 
 ```
-make_letter_list.py
-make_chinese1_list.py
+1-make_chinese1_list.py
+2-make_letter_list.py
+3-make_tiny_letter_list.py
 ```
 
 
 ### training
 ```
-train_mnist_resnet20.py
-train_capital_letter_resnet20.py
-train_chinese1_resnet20.py
+4-train_capital_letter_resnet20.py
+5-train_chinese1_resnet20.py
+6-train_tiny_letter_resnet20.py
 ```
 ### explanation generation
 ```
-FARCE_mnist.py
-FARCE_capital_letter.py
-FARCE_chinese.py
+7-FARCE_capital_letter.py
+8-FARCE_chinese.py
+9-FARCE_mnist.py
 ```
 ## Time and Space
 
