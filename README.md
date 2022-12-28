@@ -2,8 +2,7 @@
 ```
 Utilized Generative Adversarial Network (GAN) to interpret the black-box deep image classifier models by PyTorch.
 ```
-Methodology described in the paper by Zhao, Yunxia, 2020: [https://arxiv.org/abs/2007.05684]
-
+Methodology described in [the paper by Zhao, Yunxia, 2020](https://arxiv.org/abs/2007.05684) 
 
 
 ## Requirements
