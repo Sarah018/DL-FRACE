@@ -1,4 +1,3 @@
-[Paper](https://arxiv.org/abs/2007.05684)
 ## Requirements
 
 1. The project was implemented and tested in Python 3.5 and Pytorch 0.4. The higher versions should work after minor modification.
@@ -49,3 +48,6 @@ FARCE_mnist     | 1 | ~20min   |
 FARCE_capital_letter     | 2 | ~20min    |
 FARCE_chinese     | 1 | ~20min   |
 
+
+## Further Reading
+Methodology described in (Zhao, Yunxia, 2020)[https://arxiv.org/abs/2007.05684]
